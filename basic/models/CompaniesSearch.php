@@ -8,6 +8,7 @@ use yii\data\ActiveDataProvider;
 use app\models\Companies;
 
 /**
+ * Tekshirish uchun
  * CompaniesSearch represents the model behind the search form of `app\models\Companies`.
  */
 class CompaniesSearch extends Companies
