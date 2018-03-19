@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fc0107e-0e4a-47d2-b735-d5b1f9e2a4fe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/companies/list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/web.php" afterPath="$PROJECT_DIR$/config/web.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/CompaniesController.php" afterPath="$PROJECT_DIR$/controllers/CompaniesController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/PersonsController.php" afterPath="$PROJECT_DIR$/controllers/PersonsController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/Persons.php" afterPath="$PROJECT_DIR$/models/Persons.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/companies/index.php" afterPath="$PROJECT_DIR$/views/companies/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layouts/main.php" afterPath="$PROJECT_DIR$/views/layouts/main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/persons/_form.php" afterPath="$PROJECT_DIR$/views/persons/_form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/persons/index.php" afterPath="$PROJECT_DIR$/views/persons/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/config/console.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -57,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/views/layouts/main.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
-              <caret line="40" column="58" lean-forward="false" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
+              <caret line="40" column="58" lean-forward="true" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -77,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/controllers/PersonsController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#35#43#0#PHP" expanded="true" />
               </folding>
@@ -89,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/controllers/SiteController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="524">
-              <caret line="128" column="0" lean-forward="true" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+              <caret line="128" column="0" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
               <folding>
                 <element signature="e#35#43#0#PHP" expanded="true" />
               </folding>
@@ -101,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/config/test.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="524">
-              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -121,7 +113,7 @@
         <entry file="file://$PROJECT_DIR$/config/web.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="524">
-              <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+              <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -398,15 +390,15 @@
       <updated>1521392658731</updated>
       <workItem from="1521392660598" duration="2323000" />
       <workItem from="1521437880666" duration="5677000" />
-      <workItem from="1521458302247" duration="10086000" />
+      <workItem from="1521458302247" duration="10705000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18086000" />
+    <option name="totallyTimeSpent" value="18705000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17246597" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -785,7 +777,7 @@
     <entry file="file://$PROJECT_DIR$/config/test.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="524">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -809,7 +801,7 @@
     <entry file="file://$PROJECT_DIR$/config/console.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -817,7 +809,7 @@
     <entry file="file://$PROJECT_DIR$/controllers/SiteController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="524">
-          <caret line="128" column="0" lean-forward="true" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+          <caret line="128" column="0" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
           <folding>
             <element signature="e#35#43#0#PHP" expanded="true" />
           </folding>
@@ -835,7 +827,7 @@
     <entry file="file://$PROJECT_DIR$/controllers/PersonsController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#35#43#0#PHP" expanded="true" />
           </folding>
@@ -845,7 +837,7 @@
     <entry file="file://$PROJECT_DIR$/config/web.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="524">
-          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -853,7 +845,7 @@
     <entry file="file://$PROJECT_DIR$/views/layouts/main.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="40" column="58" lean-forward="false" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
+          <caret line="40" column="58" lean-forward="true" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
           <folding />
         </state>
       </provider>
