@@ -14,9 +14,6 @@ use app\models\Persons;
 
     <?= $form->field($model, company_name)->textInput(['maxlength' => true]) ?>
 
-    <p>
-        <?= Html::a('Create Persons', ['create'], ['class' => 'btn btn-success']) ?>
-    </p>
     <div class="form-group">
         <?= Html::submitButton('Save', ['class' => 'btn btn-success']) ?>
     </div>

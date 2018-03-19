@@ -2,96 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fc0107e-0e4a-47d2-b735-d5b1f9e2a4fe" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/Vagrantfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/assets/AppAsset.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/codeception.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/commands/HelloController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/composer.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/config/console.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/config/db.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/config/params.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/config/test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/config/test_db.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/config/web.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/controllers/CompaniesController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/controllers/PersonsController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/controllers/SiteController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/docker-compose.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/mail/layouts/html.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/models/Companies.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/models/CompaniesSearch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/models/ContactForm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/models/LoginForm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/models/Persons.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/models/PersonsSearch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/models/User.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/requirements.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/runtime/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/_data/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/_output/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/_support/AcceptanceTester.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/_support/FunctionalTester.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/_support/UnitTester.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/acceptance.suite.yml.example" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/acceptance/AboutCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/acceptance/ContactCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/acceptance/HomeCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/acceptance/LoginCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/acceptance/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/bin/yii" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/bin/yii.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/functional.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/functional/ContactFormCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/functional/LoginFormCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/functional/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/unit.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/unit/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/unit/models/ContactFormTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/unit/models/LoginFormTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/unit/models/UserTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/vagrant/config/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/vagrant/config/vagrant-local.example.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/vagrant/nginx/app.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/vagrant/nginx/log/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/vagrant/provision/always-as-root.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/vagrant/provision/once-as-root.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/vagrant/provision/once-as-vagrant.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/companies/_form.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/companies/_search.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/companies/create.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/companies/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/companies/update.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/companies/view.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/layouts/main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/persons/_form.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/persons/_search.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/persons/create.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/persons/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/persons/update.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/persons/view.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/site/about.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/site/contact.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/site/error.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/site/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/site/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/web/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/web/assets/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/web/css/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/web/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/web/index-test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/web/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/web/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/widgets/Alert.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/yii" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/yii.bat" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Task.iml" afterPath="$PROJECT_DIR$/.idea/Task.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/companies/_form.php" afterPath="$PROJECT_DIR$/views/companies/_form.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -102,7 +14,18 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="_form.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/companies/_form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -111,6 +34,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/basic/models/CompaniesSearch.php" />
+        <option value="$PROJECT_DIR$/views/companies/_form.php" />
       </list>
     </option>
   </component>
@@ -142,6 +66,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -154,9 +79,68 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="companies" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -187,16 +171,18 @@
       <option name="presentableId" value="Default" />
       <updated>1521392658731</updated>
       <workItem from="1521392660598" duration="2323000" />
+      <workItem from="1521437880666" duration="293000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2323000" />
+    <option name="totallyTimeSpent" value="2616000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16792738" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17019667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -228,26 +214,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/basic/models/CompaniesSearch.php">
+    <entry file="file://$PROJECT_DIR$/basic/models/CompaniesSearch.php" />
+    <entry file="file://$PROJECT_DIR$/basic/models/ContactForm.php" />
+    <entry file="file://$PROJECT_DIR$/basic/models/LoginForm.php" />
+    <entry file="file://$PROJECT_DIR$/views/companies/_form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/models/ContactForm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/models/LoginForm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
           <folding />
         </state>
       </provider>
