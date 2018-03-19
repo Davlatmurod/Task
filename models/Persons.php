@@ -46,7 +46,7 @@ class Persons extends \yii\db\ActiveRecord
             'id' => 'ID',
             'person_name' => 'Person Name',
             'person_address' => 'Person Address',
-            'company_id' => 'Company ID',
+            'company_id' => 'Company Name',
         ];
     }
 

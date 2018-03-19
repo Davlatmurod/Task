@@ -2,7 +2,10 @@
 
 namespace app\controllers;
 
+use app\models\Persons;
+
 use Yii;
+use yii\filters\AccessControl;
 use app\models\Companies;
 use app\models\CompaniesSearch;
 use yii\web\Controller;
@@ -20,6 +23,17 @@ class CompaniesController extends Controller
     public function behaviors()
     {
         return [
+            'access' => [
+                'class' => AccessControl::className(),
+                'only' => ['create'],
+                'rules' => [
+                    [
+                        'actions' => ['create'],
+                        'allow' => true,
+                        'roles' => ['@'],
+                    ],
+                ],
+            ],
             'verbs' => [
                 'class' => VerbFilter::className(),
                 'actions' => [
@@ -35,12 +49,18 @@ class CompaniesController extends Controller
      */
     public function actionIndex()
     {
-        $searchModel = new CompaniesSearch();
-        $dataProvider = $searchModel->search(Yii::$app->request->queryParams);
 
+        $company = Companies::find()->all();
         return $this->render('index', [
-            'searchModel' => $searchModel,
-            'dataProvider' => $dataProvider,
+        'company' => $company
+        ]);
+    }
+    public function actionList($id)
+    {
+        $all=Persons::find()->where('company_id='.$id)->all();
+        //$company = Companies::find()->where('id =' .$id)->one();
+        return $this->render('list', [
+        'company' => $all
         ]);
     }
 
